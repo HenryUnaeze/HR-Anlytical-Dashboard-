@@ -119,4 +119,4 @@ Data Type	Source
 ## 🎯 Summary Insight
 - This dashboard provides a clear, comparative breakdown of departmental HR health in terms of satisfaction, retention, and demographics.
 - The Research & Development department shows high retention and satisfaction, while Human Resources signals potential issues due to low tenure and higher layoffs.
-T- his tool enables HR managers to target interventions by department and demographic to improve organizational health.
+- This tool enables HR managers to target interventions by department and demographic to improve organizational health.
